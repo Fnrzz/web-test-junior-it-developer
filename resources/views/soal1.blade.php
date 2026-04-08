@@ -54,7 +54,7 @@
             } else if (jangka_waktu <= 24) {
                 bungaPersen = 14;
             } else if (jangka_waktu > 24) {
-                bungaPersen = 16, 5;
+                bungaPersen = 16.5;
             }
 
             let bunga = bungaPersen / 100;
